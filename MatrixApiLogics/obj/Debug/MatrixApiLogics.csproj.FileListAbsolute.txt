@@ -1,0 +1,8 @@
+C:\Users\TechXcape\source\repos\MatrixApiLogics\bin\Debug\MatrixApiLogics.dll
+C:\Users\TechXcape\source\repos\MatrixApiLogics\bin\Debug\MatrixApiLogics.pdb
+C:\Users\TechXcape\source\repos\MatrixApiLogics\bin\Debug\RestSharp.dll
+C:\Users\TechXcape\source\repos\MatrixApiLogics\bin\Debug\RestSharp.xml
+C:\Users\TechXcape\source\repos\MatrixApiLogics\obj\Debug\MatrixApiLogics.csproj.CoreCompileInputs.cache
+C:\Users\TechXcape\source\repos\MatrixApiLogics\obj\Debug\MatrixApiLogics.csproj.CopyComplete
+C:\Users\TechXcape\source\repos\MatrixApiLogics\obj\Debug\MatrixApiLogics.dll
+C:\Users\TechXcape\source\repos\MatrixApiLogics\obj\Debug\MatrixApiLogics.pdb
